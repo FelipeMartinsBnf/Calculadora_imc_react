@@ -1,0 +1,23 @@
+table .active{
+    background-color: #4cd137;
+}
+
+.notActive{
+    background-color: transparent;
+}
+
+.Table{
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.Table td, .Table th{
+    border-bottom: 1px solid black;
+    padding: 3px;
+}
+
+.Title{
+    margin-top: 10px;
+}

@@ -1,0 +1,16 @@
+.FormTitle{
+    color: #192a56;
+    margin-bottom: 20px;
+    margin-top: 7%;
+}
+
+.FormLabel{
+    display: block;
+}
+
+.FormInput{
+    width: 50%;
+    height: 1.5lh;
+    margin-bottom: 15px;
+    text-align: center;
+}
