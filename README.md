@@ -1,8 +1,19 @@
-# React + Vite
+# Calculadora IMC React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma calculadora de Índice de Massa Corporal (IMC) desenvolvida utilizando o framework React e Vite. A aplicação permite aos usuários calcular seu IMC com base no peso e altura fornecidos.
 
-Currently, two official plugins are available:
+## Descrição
+Esse foi o meu primeiro projeto totalmente desenvolvido em REACT, que consiste em uma calculadora simples de IMC, que atualiza os dados automaticamente conforme são digitados. Foi usado o JSX para criar elementos de interface do usuário, foram criados componentes reutilizáveis e modulares com manipulação de estado e reatividade no React. Tambem foi ultilizado o useEffect e hooks.  
+Também foi ultilizado o ESLint para procurar erros no código.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
+
+- React
+- Vite
+- JavaScript
+- CSS
+- ESLint
+
+## Acesso ao Projeto
+
+visite  o projeto [Calculadora IMC React](https://calculadora-imc-react-felipem.vercel.app/) na Vercel.
